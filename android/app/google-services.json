@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "368076200148",
+    "project_id": "nate-project-65df6",
+    "storage_bucket": "nate-project-65df6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368076200148:android:7d2260aaa65d07db674341",
+        "android_client_info": {
+          "package_name": "com.taskproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368076200148-ka1ajrdm3js18vp68aim1jeam00f10d1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwGHXHAUu3IfuKZ4aYnmeZR5QyXhDwfsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368076200148-ka1ajrdm3js18vp68aim1jeam00f10d1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368076200148:android:3669b0d15f337a06674341",
+        "android_client_info": {
+          "package_name": "com.test.nate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368076200148-ka1ajrdm3js18vp68aim1jeam00f10d1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwGHXHAUu3IfuKZ4aYnmeZR5QyXhDwfsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368076200148-ka1ajrdm3js18vp68aim1jeam00f10d1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
